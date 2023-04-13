@@ -1,0 +1,6 @@
+[submodule "node"]
+	path = node
+	url = https://github.com/igorhnovais/API-EcommerceWine
+[submodule "react"]
+	path = react
+	url = https://github.com/igorhnovais/FRONT-ecommerceWine
